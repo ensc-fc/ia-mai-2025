@@ -1,2 +1,3 @@
-# ia-mai-2025
-Ressources pour la formation courte "Intelligence Artificielle" de mai 2025
+# Formation courte Intelligence Artificielle - Mai 2025
+
+[![Logo de l'ENSC](logo_ensc.jpg)](https://ensc.bordeaux-inp.fr)
