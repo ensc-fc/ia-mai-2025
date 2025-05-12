@@ -21,6 +21,7 @@
 
 ### Supports de cours
 
+- [Learning via Gradient Descent](https://github.com/bpesquet/mlcourse/tree/main/lectures/gradient_descent)
 - [Feedforward Neural Networks](https://github.com/bpesquet/mlcourse/tree/main/lectures/feedforward_neural_networks)
 
 ### Activités
