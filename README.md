@@ -15,7 +15,7 @@
 ### Activités
 
 - Tutorials: [NumPy](https://github.com/bpesquet/mlcourse/tree/main/tutorials/numpy), [Pandas](https://github.com/bpesquet/mlcourse/tree/main/tutorials/pandas), [Scikit-learn](https://github.com/bpesquet/mlcourse/tree/main/tutorials/scikit-learn)
-- [Predict heart disease](https://github.com/bpesquet/mlcourse/tree/main/labs/predict_heart_disease)
+- [Predict heart disease](https://github.com/bpesquet/mlcourse/tree/main/labs/predict_heart_disease) ([solution](https://colab.research.google.com/drive/1tbTFYCqg08uk9m0QTJMSnljldmW47eyo?usp=sharing))
 
 ## Jour 2
 
@@ -26,14 +26,22 @@
 
 ### Activités
 
-- Tutorials: [PyTorch Fundamentals](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/fundamentals), [Linear Regression](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/linear_regression), [Logistic Regression](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/logistic_regression), [MultiLayer Perceptron](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/multilayer_perceptron)
-- [Recognize handwritten digits](https://github.com/bpesquet/mlcourse/tree/main/labs/recognize_handwritten_digits)
+- Tutorials: [PyTorch Fundamentals](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/fundamentals), [Linear Regression](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/linear_regression), [Logistic Regression](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/logistic_regression)
 
-## Jour 4
+## Jour 3
 
 ### Supports de cours
 
 - [Convolutional Neural Networks](https://github.com/bpesquet/mlcourse/tree/main/lectures/convolutional_neural_networks)
+
+### Activités
+
+- Tutorial: [MultiLayer Perceptron](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/multilayer_perceptron)
+- [Recognize handwritten digits](https://github.com/bpesquet/mlcourse/tree/main/labs/recognize_handwritten_digits)
+
+## Jour 4
+
+- Recurrent Neural Networks
 
 ### Activités
 
