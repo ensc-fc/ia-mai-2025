@@ -41,7 +41,7 @@
 
 ## Jour 4
 
-- Recurrent Neural Networks
+- [Recurrent Neural Networks](https://github.com/bpesquet/mlcourse/tree/main/lectures/recurrent_neural_networks)
 
 ### Activités
 
