@@ -37,7 +37,7 @@
 ### Activités
 
 - Tutorial: [MultiLayer Perceptron](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/multilayer_perceptron)
-- [Recognize handwritten digits](https://github.com/bpesquet/mlcourse/tree/main/labs/recognize_handwritten_digits)
+- [Recognize handwritten digits](https://github.com/bpesquet/mlcourse/tree/main/labs/recognize_handwritten_digits) ([solution](https://colab.research.google.com/drive/1TSoa54WuWrTt_0HSFfhKv3VulzcBl6xF?usp=sharing))
 
 ## Jour 4
 
@@ -46,4 +46,14 @@
 ### Activités
 
 - Tutorial: [Convolutional Neural Network with PyTorch](https://github.com/bpesquet/pytorch-tutorial/tree/main/pytorch_tutorial/convolutional_neural_network)
-- [Classify common images](https://github.com/bpesquet/mlcourse/tree/main/labs/classify_common_images)
+- [Classify common images](https://github.com/bpesquet/mlcourse/tree/main/labs/classify_common_images) ([solution](https://colab.research.google.com/drive/1Jlhl64o6lo3UtEtZv90LSImhDxbvQXT8?usp=sharing))
+
+## Jour 5
+
+### Supports de cours
+
+- [Large Language Models](https://github.com/bpesquet/mlcourse/tree/main/lectures/large_language_models)
+
+### Activités
+
+- [Example of accessing a LLM](https://colab.research.google.com/drive/1GcUPF_F2-kf4F9aISNiSPj3ZxjKxZ-5c?usp=sharing)
