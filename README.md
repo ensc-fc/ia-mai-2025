@@ -57,3 +57,4 @@
 ### Activités
 
 - [Example of accessing a LLM](https://colab.research.google.com/drive/1GcUPF_F2-kf4F9aISNiSPj3ZxjKxZ-5c?usp=sharing)
+- [Basic RAG example](https://colab.research.google.com/drive/1Tn1MemmPGenk8TUAwFD_sV3jhzhipQvi?usp=sharing)
